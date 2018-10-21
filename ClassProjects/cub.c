@@ -1,0 +1,3 @@
+#studio < >
+	printf ("hello world")
+	
